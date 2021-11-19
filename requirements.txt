@@ -2,3 +2,4 @@ pandas
 numpy
 ipywidgets
 plotly
+voila
