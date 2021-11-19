@@ -1,0 +1,42 @@
+SLType,Shoreline_Type_Description
+0, Sand or Cohesive Bluffs
+1, Homogeneous Bluffs (sand 0-20%)
+2, Homogeneous Bluffs (sand 20-50%)
+3, Homogeneous Bluffs (sand >50%)
+4, Composite Bluffs (sand 0-20%)
+5, Composite Bluffs (sand 20-50%)
+6, Composite Bluffs (sand >50%)
+7, Sand Bluffs (comp. unknown)
+8, Cohesive Bluffs (comp. unknown)
+10, Marine/Leda Clay Bluffs
+11, Marine/Leda Clay Bluffs
+20, Low Bank
+21, Glacial Till Low Bank/Low Plain
+22, Composite Low Bank/Low Plain
+23, Sandy Low Bank/Low Plain
+24, Leda/Clay Low Bank/Low Plain
+25, Creek Bank
+30, Baymouth Barrier Complex
+31, Baymouth – Barrier
+40, Sandy Beach/Dune Complex
+41, Sandy Beach/Dune (acdeposits)
+42, Artificial Depositional
+43, Natural Depositional
+44, Erosional Beach
+45, Pocket Beach
+50, Coarse Beaches
+51, Gravel Beaches
+52, Shingle / Cobbles
+53, Boulder Beaches
+60, Bedrock (Res.)
+61, Bedrock (Res.) no OB
+62, Bedrock (Res.) with glacial OB
+63, Bedrock (Res.) with sand OB
+70, Bedrock (Er.)
+71, Bedrock (Er.) no OB
+72, Bedrock (Er.) with glacial OB
+73, Bedrock (Er.) with sand OB
+80, Open Shoreline Wetlands
+81, Open Shore Wetlands
+82, Rivermouth/Sheltered Wetlands
+99, Unknown
